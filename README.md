@@ -35,7 +35,7 @@ class DevOpsEngineer:
 I'm passionate about **Cloud Infrastructure**, **Automation**, and **DevOps Excellence**. 
 With meticulous attention to detail, I transform complex challenges into elegant, scalable solutions.
 
-<img align="right" alt="Coding Animation" height="200" src="https://raw.githubusercontent.com/SHAIK2300/SHAIK2300/master/coding.gif" style="border-radius: 15px;" />
+<img align="right" alt="Coding Animation" height="150" src="https://raw.githubusercontent.com/SHAIK2300/SHAIK2300/master/coding.gif" style="border-radius: 15px;" />
 
 ## 🌟 What I'm Up To
 
